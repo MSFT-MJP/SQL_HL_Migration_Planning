@@ -1,4 +1,8 @@
-# Azure SQL Server Managed Instance & IaaS Migration
+# SQL Server Modernisation High Level Planning: IaaS Vs Managed Instance
+
+Azure SQL Server Managed Instance & IaaS Migration
+High Level Planning Workbook
+
 High Level Planning Workbook
 This workbook was developed to assist with SQL modernisation and migration planning. It is intended to be used during initial discussions and function as a high level record of modernisation of applications and their databases. 
 
