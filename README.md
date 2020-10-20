@@ -18,4 +18,4 @@ An overview of how the migration process may work - who does what when.
 
 #### Authors:
 ##### Morgan Price - Cloud Solution Architect (Data & AI) – Microsoft
-##### David Graham - Cloud Migration Consultant – Peppertree Cloud Consulting
+##### David Graham - Chief Nerd at Peppertree Cloud Consulting
