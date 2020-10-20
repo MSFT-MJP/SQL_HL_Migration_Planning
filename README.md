@@ -17,7 +17,5 @@ Prioritise and map out the end state to assist with sizing and planning.
 An overview of how the migration process may work - who does what when.
 
 #### Authors:
-##### Morgan Price
-Cloud Solution Architect (Data & AI) – Microsoft
-##### David Graham
-Cloud Migration Consultant – Peppertree
+##### Morgan Price - Cloud Solution Architect (Data & AI) – Microsoft
+##### David Graham - Cloud Migration Consultant – Peppertree
